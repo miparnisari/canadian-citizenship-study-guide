@@ -84,7 +84,7 @@
 
 ## 2nd War with America
 
-1812: 🩸 USA invades Canada and loses. Causes of the war included British attempts to restrict U.S. trade, the Royal Navy's impressment of American seamen and America's desire to expand its territory. Canadian volunteers, British troops and First Nations defended against the invasion. The Americans burned down the government house and parliament house, the Cnadians burned down the White House in Washington DC. 🧍 War heroes: [Isaac Brock](https://en.wikipedia.org/wiki/Isaac_Brock) (Upper Canada), [Charles de Salaberry](https://en.wikipedia.org/wiki/Charles_de_Salaberry) (Montreal), [Robert Ross](https://en.wikipedia.org/wiki/Robert_Ross_(British_Army_officer)) (Washington, DC), [Laura Secord](https://en.wikipedia.org/wiki/Laura_Secord) (Niagara).
+1812: 🩸 USA invades Canada and loses. Causes of the war included British attempts to restrict U.S. trade, the Royal Navy's impressment of American seamen and America's desire to expand its territory. Canadian volunteers, British troops and First Nations defended against the invasion. The Americans burned down the government house and parliament house, the Canadians burned down the White House in Washington DC. 🧍 War heroes: [Isaac Brock](https://en.wikipedia.org/wiki/Isaac_Brock) (Upper Canada), [Charles de Salaberry](https://en.wikipedia.org/wiki/Charles_de_Salaberry) (Montreal), [Robert Ross](https://en.wikipedia.org/wiki/Robert_Ross_(British_Army_officer)) (Washington, DC), [Laura Secord](https://en.wikipedia.org/wiki/Laura_Secord) (Niagara).
 
 1832: Montreal stock exchange opens. First Assembly in Newfoundland.
 
@@ -229,7 +229,7 @@ Canada has close relations with USA and each is the other’s largest trading pa
 
 Capital: Ottawa, chosen in 1857 by Queen Victoria. Has the House of Commons and the Senate.
 
-![geo](https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-regions/_jcr_content/par/img_0_3_3_19/image.img.jpg/1508253136798.jpg)
+![geo](https://ontheworldmap.com/canada/map-of-canada.jpg)
 
 Atlantic provinces: 
 - Cool winters and cool humid summers
