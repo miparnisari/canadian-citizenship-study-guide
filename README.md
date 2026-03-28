@@ -296,27 +296,65 @@ Gay people are allowed to marry and men and women are equal under the law.
 
 Immigration comes from England, France, Scotland, Ireland, Germany and Asia.
 
-Famous Canadians:
+##  Famous Canadians 
 
-- Alexander Graham Bell: telephone📞
-- Sir Sandford Fleming: timezones🕠
-- Joseph-Armand Bombardier: snowmobile☃️
-- Matthew Evans, Henry Woodward: light bulb💡
-- Reginald Fessenden: radio📻
-- Dr. Wilder Penfield: brain surgeon🧠
-- Dr. John Popps: cardiac pacemaker❤️
-- Frederic Banting and Charles Best: insulin💉
-- John Buchan🤵‍♂️: 1st Baron Tweedsmuir, popular Governor General of Canada, was enthusiastic about development of Canadian culture and identity.
-- Marjorie Turner-Bailey🏃‍♀️: Olympian sprinter descended from black Loyalists.
-- Pierre Le Moyne d'Iberville🪖: great hero of New France, winning many victories over the English.
-- Sir Sam Steele🪖: a great frontier hero during the Gold Rush, Mounted Policeman and soldier
-- Phil Edwards🏃‍♂️: Olympian runner, physician, captain of the Canadian army and expert in tropical diseases
-- Donovan Bailey🏃‍♂️: Olympian sprinter, first Canadian to legally break the 10-second barrier in the 100m
-- Mike Lazaridis and Jim Balsillie🤵‍♂️: owners of RIM, the makers of Blackberry.
+| **Name**                                 | **Category**                         | **Years**   | **Contribution/Significance**                                                                                                                                                                          |
+|------------------------------------------|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Agnes Macphail**                       | Politics &amp; Governance            | 1921        | First woman elected to the House of Commons.                                                                                                                                                           |
+| **Alexander Graham Bell**                | Science, Technology &amp; Innovation | 1876        | Inventor of the telephone.                                                                                                                                                                             |
+| **Alice Munro**                          | Nobel Prize Laureates                | 2013        | Nobel Prize in Literature, recognized for exceptional short stories depicting the Canadian experience.                                                                                                 |
+| **Arthur B. McDonald**                   | Nobel Prize Laureates                | 2015        | Nobel Prize in Physics, for the discovery of neutrino oscillations.                                                                                                                                    |
+| **Bertram Brockhouse**                   | Nobel Prize Laureates                | 1994        | Nobel Prize in Physics, for work in neutron spectroscopy.                                                                                                                                              |
+| **Bishop Laval**                         | Exploration                          | 1658-1674   | First Bishop of New France (Bishop of Quebec), played a key role in building a French Empire in North America that reached from Hudson Bay to the Gulf of Mexico                                       |
+| **Charles de Salaberry**                 | Military &amp; War                   | 1812        | Defended Montreal during the War of 1812.                                                                                                                                                              |
+| **Donovan Bailey**                       | Sports                               | 1996        | Olympic sprinter, world record sprinter, double Olympic gold medallist.                                                                                                                                |
+| **Emily Carr**                           | Arts &amp; Culture                   | 1920s-1940s | Renowned Canadian painter, painted landscapes of British Columbia.                                                                                                                                     |
+| **Emily Stowe**                          | Women's Rights &amp; Advocacy        | 1867-1903   | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                                                                                       |
+| **Frederick Banting &amp; Charles Best** | Science, Technology                  | 1921        | Co-discovered insulin, leading to treatments for diabetes.                                                                                                                                             |
+| **George-Étienne Cartier**               | Politics &amp; Governance            | 1860s       | Co-leader of the Confederation movement, Father of Confederation.                                                                                                                                      |
+| **Gerhard Herzberg**                     | Nobel Prize Laureates                | 1971        | Nobel Prize in Chemistry, for contributions to molecular structure research.                                                                                                                           |
+| **Guy Carleton (Lord Dorchester)**       | Politics &amp; Governance            | 1775        | Governor of Quebec, defended Quebec from American invasion.                                                                                                                                            |
+| **Isaac Brock**                          | Military &amp; War                   | 1812        | Canadian military leader, War of 1812 hero.                                                                                                                                                            |
+| **Jacques Cartier**                      | Exploration                          | 1534-1542   | French explorer, first European to map Gulf and River of St. Lawrence, claiming the land for King Francis I of France.                                                                                 |
+| **James Peebles**                        | Nobel Prize Laureates                | 2019        | Nobel Prize in Physics, for theoretical discoveries in physical cosmology.                                                                                                                             |
+| **James Wolfe**                          | Military &amp; War                   | 1759        | Brigadier was killed leading their troops in battle ( In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City — marking the end of France’s empire in America ) |
+| **John A. Macdonald**                    | Politics &amp; Governance            | 1867        | First Prime Minister of Canada, Father of Confederation.                                                                                                                                               |
+| **John Buchan**                          | Politics &amp; Governance            | 1935-1940   | Governor General of Canada; promoted Canadian culture and identity; also a noted author.                                                                                                               |
+| **John Cabot**                           | Exploration                          | 1497        | Italian immigrant in England, first European to map East Coast of Canada. , setting foot on Newfoundland or Cape Breton Island in 1497 and claiming the New Founde Land for England.                   |
+| **John Hopps**                           | Science, Technology &amp; Innovation | 1950        | Helped develop the first external cardiac pacemaker.                                                                                                                                                   |
+| **John McCrae**                          | Arts &amp; Culture                   | 1915        | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                                                                                          |
+| **John Polanyi**                         | Nobel Prize Laureates                | 1986        | Nobel Prize in Chemistry, for developing techniques to observe chemical reactions.                                                                                                                     |
+| **John Simcoe**                          | Politics &amp; Governance            | 1793        | First Lieutenant-Governor of Upper Canada, abolished slavery.                                                                                                                                          |
+| **Joseph-Armand Bombardier**             | Science, Technology &amp; Innovation | 1930s-1950s | Invented and developed the snowmobile, revolutionizing winter transportation in Canada.                                                                                                                |
+| **Leonard Tilley**                       | Politics &amp; Governance            | 1864        | Father of Confederation, suggested the term "Dominion of Canada."                                                                                                                                      |
+| **Lord Durham**                          | Politics &amp; Governance            | 1839        | Recommended responsible government and the unification of Upper and Lower Canada.                                                                                                                      |
+| **Louis Riel**                           | Politics &amp; Governance            | 1870, 1885  | Métis' greatest military leader, led uprisings in Manitoba (seized Fort Garry - 1869 -1870) and Saskatchewan (1885) , considered the "father of Manitoba.                                              |
+| **Marjorie Turner-Bailey**               | Sports                               | 1980s       | Olympian sprinter from Nova Scotia, descendant of Black Loyalists.                                                                                                                                     |
+| **Marquis de Montcalm**                  | Military &amp; War                   | 1759        | French Commander, defeated and killed in the Battle of the Plains of Abraham.                                                                                                                          |
+| **Matthew Evans &amp; Henry Woodward**   | Science, Technology &amp; Innovation | 1874        | Patented an early electric light bulb; later sold the patent to Thomas Edison.                                                                                                                         |
+| **Michael Smith**                        | Nobel Prize Laureates                | 1993        | Nobel Prize in Chemistry, for work on site-directed mutagenesis.                                                                                                                                       |
+| **Mike Lazaridis &amp; Jim Balsillie**   | Science, Technology                  | 1984        | Founders of Research In Motion (RIM), creators of the Blackberry.                                                                                                                                      |
+| **Phil Edwards**                         | Sports                               | 1920s-1930s | Olympian runner, physician, and Canadian Army captain, expert in tropical diseases. He won bronze medals for Canada in the 1928, 1932 and 1936 Olympics                                                |
+| **Pierre Le Moyne d'Iberville**          | Military &amp; War                   | 1680s-1700s | Hero of New France; led successful campaigns against the English, especially in Hudson Bay and Newfoundland.                                                                                           |
+| **Reginald Fessenden**                   | Science, Technology &amp; Innovation | 1900s       | Contributed to the invention of radio, sent the first wireless voice message.                                                                                                                          |
+| **Richard E. Taylor**                    | Nobel Prize Laureates                | 1990        | Nobel Prize in Physics, for work on quark structure through deep inelastic scattering.                                                                                                                 |
+| **Rick Hansen**                          | Sports                               | 1985-1987   | Wheelchair athlete, completed the "Man in Motion World Tour."                                                                                                                                          |
+| **Robert Borden**                        | Politics &amp; Governance            | 1911-1920   | Prime Minister during World War I, gave women the right to vote in federal elections — first to nurses at the battle front, then to women who were related to men in active wartime service            |
+| **Robert Ross**                          | Military &amp; War                   | 1814        | British general, burned the White House during the War of 1812.                                                                                                                                        |
+| **Sam Steele**                           | Military &amp; War                   | 1870s-1900s | Prominent Mounted Police officer; key figure during the Klondike Gold Rush and frontier expansion.                                                                                                     |
+| **Samuel de Champlain**                  | Exploration                          | 1604, 1608  | French explorer, founded Quebec and established Acadia.                                                                                                                                                |
+| **Sidney Altman**                        | Nobel Prize Laureates                | 1989        | Nobel Prize in Chemistry, for discovering the catalytic properties of RNA.                                                                                                                             |
+| **Sir Arthur Currie**                    | Military &amp; War                   | 1917        | Led Canadian troops in World War I, especially at Vimy Ridge.                                                                                                                                          |
+| **Sir Sandford Fleming**                 | Science, Technology &amp; Innovation | 1870s-1880s | Introduced time zones worldwide, Canadian railway pioneer.                                                                                                                                             |
+| **Terry Fox**                            | Sports                               | 1980        | Ran the "Marathon of Hope" to raise money for cancer research.                                                                                                                                         |
+| **Therese Casgrain**                     | Women's Rights &amp; Advocacy        | 1940        | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                                                                                                   |
+| **Wayne Gretzky**                        | Sports                               | 1980s-1990s | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                                                                                                    |
+| **Wilder Penfield**                      | Science, Technology &amp; Innovation | 1930s-1950s | Pioneering brain surgeon; mapped brain functions and founded the Montreal Neurological Institute.                                                                                                      |
+| **William Lyon Mackenzie King**          | Politics &amp; Governance            | 1921-1948   | Longest-serving Prime Minister, led Canada through World War II.                                                                                                                                       |
+| **Étienne-Paschal Taché**                | Politics &amp; Governance            | 1860s       | Father of Confederation, key in uniting provinces into the Dominion of Canada.                                                                                                                         |
 
-Nobel prize winners:
 
-![nobelprizewinners](./nobelprizewinners.png)
+Dollar bills:
 
 | Color | Money amount | Person | Known for |
 | - | - | - | - |
@@ -325,6 +363,8 @@ Nobel prize winners:
 | 🟩 | $20 | Queen Elizabeth II | ... |
 | 🟥 | $50 | William Lyon Mackenzie King | 10th PM (Great Depression and WW2) | 
 | 🟨 | $100 | Robert Borden | 8th PM (WW1) | 
+
+Holidays:
 
 | Date | Holiday |
 | - | - |
